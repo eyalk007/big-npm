@@ -7,6 +7,7 @@ All interactions in the **npm** organization on GitHub are considered to be cove
 ## Reporting Bugs
 
 When submitting a new bug report, please first [search](https://github.com/npm/cli/issues) for an existing or similar report & then use one of our existing [issue templates](https://github.com/npm/cli/issues/new/choose) if you believe you've come across a unique problem. Duplicate issues, or issues that don't use one of our templates may get closed without a response.
+gdfgdfgfdgupodfuopdfgudsfipgdf
 
 ## Development
 
