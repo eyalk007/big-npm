@@ -1,0 +1,8 @@
+version: 1
+type: npm
+resolver:
+    repo: cli-npm-remote-1746360429
+    serverId: local
+deployer:
+    repo: binary-test
+    serverId: local
