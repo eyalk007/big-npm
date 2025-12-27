@@ -1,0 +1,9 @@
+{
+  "name": "npm-workspace-test",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "description": "NPM workspace test project for Frogbot integration testing"
+}
