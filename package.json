@@ -7,6 +7,7 @@
   ],
   "description": "NPM workspace test project for Frogbot integration testing",
   "dependencies": {
-    "express": "^4.20.0"
+    "express": "^4.20.0",
+    "lodash": "^4.17.21"
   }
 }
