@@ -7,6 +7,7 @@
   ],
   "description": "NPM workspace test project for Frogbot integration testing",
   "dependencies": {
+    "axios": "^1.7.8",
     "express": "^4.20.0",
     "jquery": "^3.5.0",
     "lodash": "^4.17.21"
