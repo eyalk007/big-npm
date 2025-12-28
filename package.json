@@ -5,5 +5,8 @@
   "workspaces": [
     "packages/*"
   ],
-  "description": "NPM workspace test project for Frogbot integration testing"
+  "description": "NPM workspace test project for Frogbot integration testing",
+  "dependencies": {
+    "express": "^4.20.0"
+  }
 }
