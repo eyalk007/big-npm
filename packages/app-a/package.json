@@ -4,6 +4,6 @@
   "description": "App A with vulnerable dependencies",
   "dependencies": {
     "lodash": "4.17.15",
-    "axios": "0.18.0"
+    "axios": "0.30.2"
   }
 }
