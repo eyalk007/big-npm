@@ -1,9 +1,14 @@
 {
-  "name": "npm-workspace-test",
+  "name": "big-npm-regex-bug-test",
   "version": "1.0.0",
-  "private": true,
-  "workspaces": [
-    "packages/*"
-  ],
-  "description": "NPM workspace test project for Frogbot integration testing"
+  "description": "Test project to expose npm regex bug where package.json has semver ranges but lock file has exact versions",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.19",
+    "minimist": "~1.2.5",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "express": "^4.17.0"
+  }
 }
